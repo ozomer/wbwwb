@@ -1,8 +1,8 @@
 @font-face {
-	font-family: 'Poppins';
+	font-family: 'Rubik';
 	font-style: normal;
 	font-weight: 400;
-	src: url('Poppins-Medium.ttf') format('truetype');
+	src: url('Rubik-VariableFont_wght.ttf') format('truetype');
 }
 
 html, body{
@@ -10,7 +10,7 @@ html, body{
 	height: 100%;
 }
 body{
-	font-family: 'Poppins';
+	font-family: 'Rubik';
 	margin: 0;
 	background: #222;
 	position:relative;
